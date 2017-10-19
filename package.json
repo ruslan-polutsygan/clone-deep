@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "for-own": "^1.0.0",
-    "is-plain-object": "^1.0.0",
+    "is-plain-object": "^2.0.4",
     "kind-of": "^5.0.0",
     "shallow-clone": "^1.0.0"
   },
